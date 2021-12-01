@@ -1,4 +1,4 @@
-package org.sid.costumerservice.entities;
+package org.sid.customerservice.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package org.sid.costumerservice;
+package org.sid.customerservice;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RestController;
